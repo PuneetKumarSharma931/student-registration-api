@@ -1,0 +1,16 @@
+{
+  "name": "student-registration-api",
+  "version": "1.0.0",
+  "description": "This is a simple rest api for student registration and maintenance purposes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Puneet Kumar Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.6",
+    "validator": "^13.7.0"
+  }
+}
